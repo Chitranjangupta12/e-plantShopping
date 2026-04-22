@@ -9,7 +9,7 @@ function App() {
     <div style={{ textAlign: "center" }}>
       {!showProductList ? (
         <>
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
           <button onClick={() => setShowProductList(true)}>
             Get Started
           </button>
